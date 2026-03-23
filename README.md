@@ -1,4 +1,4 @@
-# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 447,702 | 🐛 86 | 📅 2026-03-09
+# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 448,025 | 🐛 88 | 📅 2026-03-09
 
 ## Table of Contents
 
@@ -202,8 +202,8 @@
 
 ### Tutorials
 
-1. [TensorFlow Python Notebooks](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,790 | 🐛 227 | 🌐 Jupyter Notebook | 📅 2024-07-26
-2. [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,235 | 🐛 88 | 🌐 Python | 📅 2023-08-15
+1. [TensorFlow Python Notebooks](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,789 | 🐛 227 | 🌐 Jupyter Notebook | 📅 2024-07-26
+2. [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,234 | 🐛 88 | 🌐 Python | 📅 2023-08-15
 3. [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,022 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20
 4. [More TensorFlow tutorials](https://github.com/pkmital/tensorflow_tutorials) ⭐ 5,668 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2021-12-11
 5. [TensorFlow-World](https://github.com/astorfi/TensorFlow-World) ⭐ 4,505 | 🐛 3 | 🌐 Python | 📅 2020-12-23
@@ -388,135 +388,135 @@
 
 ### Datasets
 
-1. [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,675 | 🐛 33 | 🌐 Python | 📅 2022-06-13 - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
+1. [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,676 | 🐛 33 | 🌐 Python | 📅 2022-06-13 - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 2. [Open Images dataset](https://github.com/openimages/dataset) ⭐ 4,365 | 🐛 37 | 🌐 Python | 📅 2021-07-01 - Open Images is a dataset of \~9 million URLs to images that have been annotated with labels spanning over 6000 categories.
 3. [DeepMind QA Corpus](https://github.com/deepmind/rc-data) ⚠️ Archived - Textual QA corpus from CNN and DailyMail. More than 300K documents in total. [Paper](http://arxiv.org/abs/1506.03340) for reference.
 4. [LLVIP](https://github.com/bupt-ai-cz/LLVIP) ⭐ 805 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2025-08-09 - 15488 visible-infrared paired images (30976 images) for low-light vision research, [Project\_Page](https://bupt-ai-cz.github.io/LLVIP/)
 5. [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) ⭐ 414 | 🐛 5 | 📅 2020-01-25 - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
 6. [MSDA](https://github.com/bupt-ai-cz/Meta-SelfLearning) ⭐ 207 | 🐛 2 | 🌐 Python | 📅 2025-04-25 - Over over 5 million images from 5 different domains for multi-source ocr/text recognition DA research, [Project\_Page](https://bupt-ai-cz.github.io/Meta-SelfLearning/)
-7. [SberQuAD](https://github.com/annnyway/QA-for-Russian) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-12-25 - Sberbank released \~90,000 Russian QA pairs
-8. [MNIST](http://yann.lecun.com/exdb/mnist/) Handwritten digits
-9. [Google House Numbers](http://ufldl.stanford.edu/housenumbers/) from street view
-10. [CIFAR-10 and CIFAR-100](http://www.cs.toronto.edu/~kriz/cifar.html)
-11. [IMAGENET](http://www.image-net.org/)
-12. [Tiny Images](http://groups.csail.mit.edu/vision/TinyImages/) 80 Million tiny images6.
-13. [Flickr Data](https://yahooresearch.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images) 100 Million Yahoo dataset
-14. [Berkeley Segmentation Dataset 500](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
-15. [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
-16. [Flickr 8k](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
-17. [Flickr 30k](http://shannon.cs.illinois.edu/DenotationGraph/)
-18. [Microsoft COCO](http://mscoco.org/home/)
-19. [VQA](http://www.visualqa.org/)
-20. [Image QA](http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/)
-21. [AT\&T Laboratories Cambridge face database](http://www.uk.research.att.com/facedatabase.html)
-22. [AVHRR Pathfinder](http://xtreme.gsfc.nasa.gov)
-23. [Air Freight](http://www.anc.ed.ac.uk/~amos/afreightdata.html) - The Air Freight data set is a ray-traced image sequence along with ground truth segmentation based on textural characteristics. (455 images + GT, each 160x120 pixels). (Formats: PNG)
-24. [Amsterdam Library of Object Images](http://www.science.uva.nl/~aloi/) - ALOI is a color image collection of one-thousand small objects, recorded for scientific purposes. In order to capture the sensory variation in object recordings, we systematically varied viewing angle, illumination angle, and illumination color for each object, and additionally captured wide-baseline stereo images. We recorded over a hundred images of each object, yielding a total of 110,250 images for the collection. (Formats: png)
-25. [Annotated face, hand, cardiac & meat images](http://www.imm.dtu.dk/~aam/) - Most images & annotations are supplemented by various ASM/AAM analyses using the AAM-API. (Formats: bmp,asf)
-26. [Image Analysis and Computer Graphics](http://www.imm.dtu.dk/image/)
-27. [Brown University Stimuli](http://www.cog.brown.edu/~tarr/stimuli.html) - A variety of datasets including geons, objects, and "greebles". Good for testing recognition algorithms. (Formats: pict)
-28. [CAVIAR video sequences of mall and public space behavior](http://homepages.inf.ed.ac.uk/rbf/CAVIARDATA1/) - 90K video frames in 90 sequences of various human activities, with XML ground truth of detection and behavior classification (Formats: MPEG2 & JPEG)
-29. [Machine Vision Unit](http://www.ipab.inf.ed.ac.uk/mvu/)
-30. [CCITT Fax standard images](http://www.cs.waikato.ac.nz/~singlis/ccitt.html) - 8 images (Formats: gif)
-31. [CMU CIL's Stereo Data with Ground Truth](origin/cil-ster.html) - 3 sets of 11 images, including color tiff images with spectroradiometry (Formats: gif, tiff)
-32. [CMU PIE Database](http://www.ri.cmu.edu/projects/project_418.html) - A database of 41,368 face images of 68 people captured under 13 poses, 43 illuminations conditions, and with 4 different expressions.
-33. [CMU VASC Image Database](http://www.ius.cs.cmu.edu/idb/) - Images, sequences, stereo pairs (thousands of images) (Formats: Sun Rasterimage)
-34. [Caltech Image Database](http://www.vision.caltech.edu/html-files/archive.html) - about 20 images - mostly top-down views of small objects and toys. (Formats: GIF)
-35. [Columbia-Utrecht Reflectance and Texture Database](http://www.cs.columbia.edu/CAVE/curet/) - Texture and reflectance measurements for over 60 samples of 3D texture, observed with over 200 different combinations of viewing and illumination directions. (Formats: bmp)
-36. [Computational Colour Constancy Data](http://www.cs.sfu.ca/~colour/data/index.html) - A dataset oriented towards computational color constancy, but useful for computer vision in general. It includes synthetic data, camera sensor data, and over 700 images. (Formats: tiff)
-37. [Computational Vision Lab](http://www.cs.sfu.ca/~colour/)
-38. [Content-based image retrieval database](http://www.cs.washington.edu/research/imagedatabase/groundtruth/) - 11 sets of color images for testing algorithms for content-based retrieval. Most sets have a description file with names of objects in each image. (Formats: jpg)
-39. [Efficient Content-based Retrieval Group](http://www.cs.washington.edu/research/imagedatabase/)
-40. [Densely Sampled View Spheres](http://ls7-www.cs.uni-dortmund.de/~peters/pages/research/modeladaptsys/modeladaptsys_vba_rov.html) - Densely sampled view spheres - upper half of the view sphere of two toy objects with 2500 images each. (Formats: tiff)
-41. [Computer Science VII (Graphical Systems)](http://ls7-www.cs.uni-dortmund.de/)
-42. [Digital Embryos](https://web-beta.archive.org/web/20011216051535/vision.psych.umn.edu/www/kersten-lab/demos/digitalembryo.html) - Digital embryos are novel objects which may be used to develop and test object recognition systems. They have an organic appearance. (Formats: various formats are available on request)
-43. [Univerity of Minnesota Vision Lab](http://vision.psych.umn.edu/users/kersten//kersten-lab/kersten-lab.html)
-44. [El Salvador Atlas of Gastrointestinal VideoEndoscopy](http://www.gastrointestinalatlas.com) - Images and Videos of his-res of studies taken from Gastrointestinal Video endoscopy. (Formats: jpg, mpg, gif)
-45. [FG-NET Facial Aging Database](http://sting.cycollege.ac.cy/~alanitis/fgnetaging/index.htm) - Database contains 1002 face images showing subjects at different ages. (Formats: jpg)
-46. [FVC2000 Fingerprint Databases](http://bias.csr.unibo.it/fvc2000/) - FVC2000 is the First International Competition for Fingerprint Verification Algorithms. Four fingerprint databases constitute the FVC2000 benchmark (3520 fingerprints in all).
-47. [Biometric Systems Lab](http://biolab.csr.unibo.it/home.asp) - University of Bologna
-48. [Face and Gesture images and image sequences](http://www.fg-net.org) - Several image datasets of faces and gestures that are ground truth annotated for benchmarking
-49. [German Fingerspelling Database](http://www-i6.informatik.rwth-aachen.de/~dreuw/database.html) - The database contains 35 gestures and consists of 1400 image sequences that contain gestures of 20 different persons recorded under non-uniform daylight lighting conditions. (Formats: mpg,jpg)
-50. [Language Processing and Pattern Recognition](http://www-i6.informatik.rwth-aachen.de/)
-51. [Groningen Natural Image Database](http://hlab.phys.rug.nl/archive.html) - 4000+ 1536x1024 (16 bit) calibrated outdoor images (Formats: homebrew)
-52. [ICG Testhouse sequence](http://www.icg.tu-graz.ac.at/~schindler/Data) -  2 turntable sequences from different viewing heights, 36 images each, resolution 1000x750, color (Formats: PPM)
-53. [Institute of Computer Graphics and Vision](http://www.icg.tu-graz.ac.at)
-54. [IEN Image Library](http://www.ien.it/is/vislib/) - 1000+ images, mostly outdoor sequences (Formats: raw, ppm)
-55. [INRIA's Syntim images database](http://www-rocq.inria.fr/~tarel/syntim/images.html) - 15 color image of simple objects (Formats: gif)
-56. [INRIA](http://www.inria.fr/)
-57. [INRIA's Syntim stereo databases](http://www-rocq.inria.fr/~tarel/syntim/paires.html) - 34 calibrated color stereo pairs (Formats: gif)
-58. [Image Analysis Laboratory](http://www.ece.ncsu.edu/imaging/Archives/ImageDataBase/index.html) - Images obtained from a variety of imaging modalities -- raw CFA images, range images and a host of "medical images". (Formats: homebrew)
-59. [Image Analysis Laboratory](http://www.ece.ncsu.edu/imaging)
-60. [Image Database](http://www.prip.tuwien.ac.at/prip/image.html) - An image database including some textures
-61. [JAFFE Facial Expression Image Database](http://www.mis.atr.co.jp/~mlyons/jaffe.html) - The JAFFE database consists of 213 images of Japanese female subjects posing 6 basic facial expressions as well as a neutral pose. Ratings on emotion adjectives are also available, free of charge, for research purposes. (Formats: TIFF Grayscale images.)
-62. [ATR Research, Kyoto, Japan](http://www.mic.atr.co.jp/)
-63. [JISCT Stereo Evaluation](origin/ftp:/ftp.vislist.com/IMAGERY/JISCT/) - 44 image pairs. These data have been used in an evaluation of stereo analysis, as described in the April 1993 ARPA Image Understanding Workshop paper \`\`The JISCT Stereo Evaluation'' by R.C.Bolles, H.H.Baker, and M.J.Hannah, 263--274 (Formats: SSI)
-64. [MIT Vision Texture](https://vismod.media.mit.edu/vismod/imagery/VisionTexture/vistex.html) - Image archive (100+ images) (Formats: ppm)
-65. [MIT face images and more](origin/ftp:/whitechapel.media.mit.edu/pub/images) - hundreds of images (Formats: homebrew)
-66. [Machine Vision](http://vision.cse.psu.edu/book/testbed/images/) - Images from the textbook by Jain, Kasturi, Schunck (20+ images) (Formats: GIF TIFF)
-67. [Mammography Image Databases](http://marathon.csee.usf.edu/Mammography/Database.html) - 100 or more images of mammograms with ground truth. Additional images available by request, and links to several other mammography databases are provided. (Formats: homebrew)
-68. [ftp://ftp.cps.msu.edu/pub/prip](origin/ftp:/ftp.cps.msu.edu/pub/prip) - many images (Formats: unknown)
-69. [Middlebury Stereo Data Sets with Ground Truth](http://www.middlebury.edu/stereo/data.html) - Six multi-frame stereo data sets of scenes containing planar regions. Each data set contains 9 color images and subpixel-accuracy ground-truth data. (Formats: ppm)
-70. [Middlebury Stereo Vision Research Page](http://www.middlebury.edu/stereo) - Middlebury College
-71. [Modis Airborne simulator, Gallery and data set](http://ltpwww.gsfc.nasa.gov/MODIS/MAS/) - High Altitude Imagery from around the world for environmental modeling in support of NASA EOS program (Formats: JPG and HDF)
-72. [NIST Fingerprint and handwriting](origin/ftp:/sequoyah.ncsl.nist.gov/pub/databases/data) - datasets - thousands of images (Formats: unknown)
-73. [NIST Fingerprint data](origin/ftp:/ftp.cs.columbia.edu/jpeg/other/uuencoded) - compressed multipart uuencoded tar file
-74. [NLM HyperDoc Visible Human Project](http://www.nlm.nih.gov/research/visible/visible_human.html) - Color, CAT and MRI image samples - over 30 images (Formats: jpeg)
-75. [National Design Repository](http://www.designrepository.org) - Over 55,000 3D CAD and solid models of (mostly) mechanical/machined engineering designs. (Formats: gif,vrml,wrl,stp,sat)
-76. [Geometric & Intelligent Computing Laboratory](http://gicl.mcs.drexel.edu)
-77. [OSU (MSU) 3D Object Model Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/Models/) - several sets of 3D object models collected over several years to use in object recognition research (Formats: homebrew, vrml)
-78. [OSU (MSU/WSU) Range Image Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/RID/) - Hundreds of real and synthetic images (Formats: gif, homebrew)
-79. [OSU/SAMPL Database: Range Images, 3D Models, Stills, Motion Sequences](http://sampl.eng.ohio-state.edu/~sampl/database.htm) - Over 1000 range images, 3D object models, still images and motion sequences (Formats: gif, ppm, vrml, homebrew)
-80. [Signal Analysis and Machine Perception Laboratory](http://sampl.eng.ohio-state.edu)
-81. [Otago Optical Flow Evaluation Sequences](http://www.cs.otago.ac.nz/research/vision/Research/OpticalFlow/opticalflow.html) - Synthetic and real sequences with machine-readable ground truth optical flow fields, plus tools to generate ground truth for new sequences. (Formats: ppm,tif,homebrew)
-82. [Vision Research Group](http://www.cs.otago.ac.nz/research/vision/index.html)
-83. [ftp://ftp.limsi.fr/pub/quenot/opflow/testdata/piv/](origin/ftp:/ftp.limsi.fr/pub/quenot/opflow/testdata/piv/) - Real and synthetic image sequences used for testing a Particle Image Velocimetry application. These images may be used for the test of optical flow and image matching algorithms. (Formats: pgm (raw))
-84. [LIMSI-CNRS/CHM/IMM/vision](http://www.limsi.fr/Recherche/IMM/PageIMM.html)
-85. [LIMSI-CNRS](http://www.limsi.fr/)
-86. [Photometric 3D Surface Texture Database](http://www.taurusstudio.net/research/pmtexdb/index.htm) - This is the first 3D texture database which provides both full real surface rotations and registered photometric stereo data (30 textures, 1680 images). (Formats: TIFF)
-87. [SEQUENCES FOR OPTICAL FLOW ANALYSIS (SOFA)](http://www.cee.hw.ac.uk/~mtc/sofa) - 9 synthetic sequences designed for testing motion analysis applications, including full ground truth of motion and camera parameters. (Formats: gif)
-88. [Computer Vision Group](http://www.cee.hw.ac.uk/~mtc/research.html)
-89. [Sequences for Flow Based Reconstruction](http://www.nada.kth.se/~zucch/CAMERA/PUB/seq.html) - synthetic sequence for testing structure from motion algorithms (Formats: pgm)
-90. [Stereo Images with Ground Truth Disparity and Occlusion](http://www-dbv.cs.uni-bonn.de/stereo_data/) - a small set of synthetic images of a hallway with varying amounts of noise added. Use these images to benchmark your stereo algorithm. (Formats: raw, viff (khoros), or tiff)
-91. [Stuttgart Range Image Database](http://range.informatik.uni-stuttgart.de) - A collection of synthetic range images taken from high-resolution polygonal models available on the web (Formats: homebrew)
-92. [Department Image Understanding](http://www.informatik.uni-stuttgart.de/ipvr/bv/bv_home_engl.html)
-93. [The AR Face Database](http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html) - Contains over 4,000 color images corresponding to 126 people's faces (70 men and 56 women). Frontal views with variations in facial expressions, illumination, and occlusions. (Formats: RAW (RGB 24-bit))
-94. [Purdue Robot Vision Lab](http://rvl.www.ecn.purdue.edu/RVL/)
-95. [The MIT-CSAIL Database of Objects and Scenes](http://web.mit.edu/torralba/www/database.html) - Database for testing multiclass object detection and scene recognition algorithms. Over 72,000 images with 2873 annotated frames. More than 50 annotated object classes. (Formats: jpg)
-96. [The RVL SPEC-DB (SPECularity DataBase)](http://rvl1.ecn.purdue.edu/RVL/specularity_database/) - A collection of over 300 real images of 100 objects taken under three different illuminaiton conditions (Diffuse/Ambient/Directed). -- Use these images to test algorithms for detecting and compensating specular highlights in color images. (Formats: TIFF )
-97. [Robot Vision Laboratory](http://rvl1.ecn.purdue.edu/RVL/)
-98. [The Xm2vts database](http://xm2vtsdb.ee.surrey.ac.uk) - The XM2VTSDB contains four digital recordings of 295 people taken over a period of four months. This database contains both image and video data of faces.
-99. [Centre for Vision, Speech and Signal Processing](http://www.ee.surrey.ac.uk/Research/CVSSP)
-100. [Traffic Image Sequences and 'Marbled Block' Sequence](http://i21www.ira.uka.de/image_sequences) - thousands of frames of digitized traffic image sequences as well as the 'Marbled Block' sequence (grayscale images) (Formats: GIF)
-101. [IAKS/KOGS](http://i21www.ira.uka.de)
-102. [U Bern Face images](origin/ftp:/ftp.iam.unibe.ch/pub/Images/FaceImages) - hundreds of images (Formats: Sun rasterfile)
-103. [U Michigan textures](origin/ftp:/freebie.engin.umich.edu/pub/misc/textures) (Formats: compressed raw)
-104. [U Oulu wood and knots database](http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html) - Includes classifications - 1000+ color images (Formats: ppm)
-105. [UCID - an Uncompressed Colour Image Database](http://vision.doc.ntu.ac.uk/datasets/UCID/ucid.html) - a benchmark database for image retrieval with predefined ground truth. (Formats: tiff)
-106. [UMass Vision Image Archive](http://vis-www.cs.umass.edu/~vislib/) - Large image database with aerial, space, stereo, medical images and more. (Formats: homebrew)
-107. [UNC's 3D image database](origin/ftp:/sunsite.unc.edu/pub/academic/computer-science/virtual-reality/3d) - many images (Formats: GIF)
-108. [USF Range Image Data with Segmentation Ground Truth](http://marathon.csee.usf.edu/range/seg-comp/SegComp.html) - 80 image sets (Formats: Sun rasterimage)
-109. [University of Oulu Physics-based Face Database](http://www.ee.oulu.fi/research/imag/color/pbfd.html) - contains color images of faces under different illuminants and camera calibration conditions as well as skin spectral reflectance measurements of each person.
-110. [Machine Vision and Media Processing Unit](http://www.ee.oulu.fi/mvmp/)
-111. [University of Oulu Texture Database](http://www.outex.oulu.fi) - Database of 320 surface textures, each captured under three illuminants, six spatial resolutions and nine rotation angles. A set of test suites is also provided so that texture segmentation, classification, and retrieval algorithms can be tested in a standard manner. (Formats: bmp, ras, xv)
-112. [Machine Vision Group](http://www.ee.oulu.fi/mvg)
-113. [Usenix face database](origin/ftp:/ftp.uu.net/published/usenix/faces) - Thousands of face images from many different sites (circa 994)
-114. [View Sphere Database](http://www-prima.inrialpes.fr/Prima/hall/view_sphere.html) - Images of 8 objects seen from many different view points. The view sphere is sampled using a geodesic with 172 images/sphere. Two sets for training and testing are available. (Formats: ppm)
-115. [PRIMA, GRAVIR](http://www-prima.inrialpes.fr/Prima/)
-116. [Vision-list Imagery Archive](origin/ftp:/ftp.vislist.com/IMAGERY/) - Many images, many formats
-117. [Wiry Object Recognition Database](http://www.cs.cmu.edu/~owenc/word.htm) - Thousands of images of a cart, ladder, stool, bicycle, chairs, and cluttered scenes with ground truth labelings of edges and regions. (Formats: jpg)
-118. [3D Vision Group](http://www.cs.cmu.edu/0.000000E+003dvision/)
-119. [Yale Face Database](http://cvc.yale.edu/projects/yalefaces/yalefaces.html) -  165 images (15 individuals) with different lighting, expression, and occlusion configurations.
-120. [Yale Face Database B](http://cvc.yale.edu/projects/yalefacesB/yalefacesB.html) - 5760 single light source images of 10 subjects each seen under 576 viewing conditions (9 poses x 64 illumination conditions). (Formats: PGM)
-121. [Center for Computational Vision and Control](http://cvc.yale.edu/)
-122. [YouTube-8M Dataset](https://research.google.com/youtube8m/) - YouTube-8M is a large-scale labeled video dataset that consists of 8 million YouTube video IDs and associated labels from a diverse vocabulary of 4800 visual entities.
-123. [Visual Object Classes Challenge 2012 (VOC2012)](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit) - VOC2012 dataset containing 12k images with 20 annotated classes for object detection and segmentation.
-124. [Large-scale Fashion (DeepFashion) Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) - Contains over 800,000 diverse fashion images.  Each image in this dataset is labeled with 50 categories, 1,000 descriptive attributes, bounding box and clothing landmarks
-125. [SANAD: Single-Label Arabic News Articles Dataset for Automatic Text Categorization](https://data.mendeley.com/datasets/57zpx667y9/2) - SANAD Dataset is a large collection of Arabic news articles that can be used in different Arabic NLP tasks such as Text Classification and Word Embedding. The articles were collected using Python scripts written specifically for three popular news websites: AlKhaleej, AlArabiya and Akhbarona.
-126. [Referit3D](https://referit3d.github.io) - Two large-scale and complementary visio-linguistic datasets (aka Nr3D and Sr3D) for identifying fine-grained 3D objects in ScanNet scenes. Nr3D contains 41.5K natural, free-form utterances, and Sr3d contains 83.5K template-based utterances.
-127. [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) - Stanford released \~100,000 English QA pairs and \~50,000 unanswerable questions
-128. [FQuAD](https://fquad.illuin.tech/) - \~25,000 French QA pairs released by Illuin Technology
-129. [GermanQuAD and GermanDPR](https://www.deepset.ai/germanquad) - deepset released \~14,000 German QA pairs
+7. [MNIST](http://yann.lecun.com/exdb/mnist/) Handwritten digits
+8. [Google House Numbers](http://ufldl.stanford.edu/housenumbers/) from street view
+9. [CIFAR-10 and CIFAR-100](http://www.cs.toronto.edu/~kriz/cifar.html)
+10. [IMAGENET](http://www.image-net.org/)
+11. [Tiny Images](http://groups.csail.mit.edu/vision/TinyImages/) 80 Million tiny images6.
+12. [Flickr Data](https://yahooresearch.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images) 100 Million Yahoo dataset
+13. [Berkeley Segmentation Dataset 500](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
+14. [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+15. [Flickr 8k](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
+16. [Flickr 30k](http://shannon.cs.illinois.edu/DenotationGraph/)
+17. [Microsoft COCO](http://mscoco.org/home/)
+18. [VQA](http://www.visualqa.org/)
+19. [Image QA](http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/)
+20. [AT\&T Laboratories Cambridge face database](http://www.uk.research.att.com/facedatabase.html)
+21. [AVHRR Pathfinder](http://xtreme.gsfc.nasa.gov)
+22. [Air Freight](http://www.anc.ed.ac.uk/~amos/afreightdata.html) - The Air Freight data set is a ray-traced image sequence along with ground truth segmentation based on textural characteristics. (455 images + GT, each 160x120 pixels). (Formats: PNG)
+23. [Amsterdam Library of Object Images](http://www.science.uva.nl/~aloi/) - ALOI is a color image collection of one-thousand small objects, recorded for scientific purposes. In order to capture the sensory variation in object recordings, we systematically varied viewing angle, illumination angle, and illumination color for each object, and additionally captured wide-baseline stereo images. We recorded over a hundred images of each object, yielding a total of 110,250 images for the collection. (Formats: png)
+24. [Annotated face, hand, cardiac & meat images](http://www.imm.dtu.dk/~aam/) - Most images & annotations are supplemented by various ASM/AAM analyses using the AAM-API. (Formats: bmp,asf)
+25. [Image Analysis and Computer Graphics](http://www.imm.dtu.dk/image/)
+26. [Brown University Stimuli](http://www.cog.brown.edu/~tarr/stimuli.html) - A variety of datasets including geons, objects, and "greebles". Good for testing recognition algorithms. (Formats: pict)
+27. [CAVIAR video sequences of mall and public space behavior](http://homepages.inf.ed.ac.uk/rbf/CAVIARDATA1/) - 90K video frames in 90 sequences of various human activities, with XML ground truth of detection and behavior classification (Formats: MPEG2 & JPEG)
+28. [Machine Vision Unit](http://www.ipab.inf.ed.ac.uk/mvu/)
+29. [CCITT Fax standard images](http://www.cs.waikato.ac.nz/~singlis/ccitt.html) - 8 images (Formats: gif)
+30. [CMU CIL's Stereo Data with Ground Truth](origin/cil-ster.html) - 3 sets of 11 images, including color tiff images with spectroradiometry (Formats: gif, tiff)
+31. [CMU PIE Database](http://www.ri.cmu.edu/projects/project_418.html) - A database of 41,368 face images of 68 people captured under 13 poses, 43 illuminations conditions, and with 4 different expressions.
+32. [CMU VASC Image Database](http://www.ius.cs.cmu.edu/idb/) - Images, sequences, stereo pairs (thousands of images) (Formats: Sun Rasterimage)
+33. [Caltech Image Database](http://www.vision.caltech.edu/html-files/archive.html) - about 20 images - mostly top-down views of small objects and toys. (Formats: GIF)
+34. [Columbia-Utrecht Reflectance and Texture Database](http://www.cs.columbia.edu/CAVE/curet/) - Texture and reflectance measurements for over 60 samples of 3D texture, observed with over 200 different combinations of viewing and illumination directions. (Formats: bmp)
+35. [Computational Colour Constancy Data](http://www.cs.sfu.ca/~colour/data/index.html) - A dataset oriented towards computational color constancy, but useful for computer vision in general. It includes synthetic data, camera sensor data, and over 700 images. (Formats: tiff)
+36. [Computational Vision Lab](http://www.cs.sfu.ca/~colour/)
+37. [Content-based image retrieval database](http://www.cs.washington.edu/research/imagedatabase/groundtruth/) - 11 sets of color images for testing algorithms for content-based retrieval. Most sets have a description file with names of objects in each image. (Formats: jpg)
+38. [Efficient Content-based Retrieval Group](http://www.cs.washington.edu/research/imagedatabase/)
+39. [Densely Sampled View Spheres](http://ls7-www.cs.uni-dortmund.de/~peters/pages/research/modeladaptsys/modeladaptsys_vba_rov.html) - Densely sampled view spheres - upper half of the view sphere of two toy objects with 2500 images each. (Formats: tiff)
+40. [Computer Science VII (Graphical Systems)](http://ls7-www.cs.uni-dortmund.de/)
+41. [Digital Embryos](https://web-beta.archive.org/web/20011216051535/vision.psych.umn.edu/www/kersten-lab/demos/digitalembryo.html) - Digital embryos are novel objects which may be used to develop and test object recognition systems. They have an organic appearance. (Formats: various formats are available on request)
+42. [Univerity of Minnesota Vision Lab](http://vision.psych.umn.edu/users/kersten//kersten-lab/kersten-lab.html)
+43. [El Salvador Atlas of Gastrointestinal VideoEndoscopy](http://www.gastrointestinalatlas.com) - Images and Videos of his-res of studies taken from Gastrointestinal Video endoscopy. (Formats: jpg, mpg, gif)
+44. [FG-NET Facial Aging Database](http://sting.cycollege.ac.cy/~alanitis/fgnetaging/index.htm) - Database contains 1002 face images showing subjects at different ages. (Formats: jpg)
+45. [FVC2000 Fingerprint Databases](http://bias.csr.unibo.it/fvc2000/) - FVC2000 is the First International Competition for Fingerprint Verification Algorithms. Four fingerprint databases constitute the FVC2000 benchmark (3520 fingerprints in all).
+46. [Biometric Systems Lab](http://biolab.csr.unibo.it/home.asp) - University of Bologna
+47. [Face and Gesture images and image sequences](http://www.fg-net.org) - Several image datasets of faces and gestures that are ground truth annotated for benchmarking
+48. [German Fingerspelling Database](http://www-i6.informatik.rwth-aachen.de/~dreuw/database.html) - The database contains 35 gestures and consists of 1400 image sequences that contain gestures of 20 different persons recorded under non-uniform daylight lighting conditions. (Formats: mpg,jpg)
+49. [Language Processing and Pattern Recognition](http://www-i6.informatik.rwth-aachen.de/)
+50. [Groningen Natural Image Database](http://hlab.phys.rug.nl/archive.html) - 4000+ 1536x1024 (16 bit) calibrated outdoor images (Formats: homebrew)
+51. [ICG Testhouse sequence](http://www.icg.tu-graz.ac.at/~schindler/Data) -  2 turntable sequences from different viewing heights, 36 images each, resolution 1000x750, color (Formats: PPM)
+52. [Institute of Computer Graphics and Vision](http://www.icg.tu-graz.ac.at)
+53. [IEN Image Library](http://www.ien.it/is/vislib/) - 1000+ images, mostly outdoor sequences (Formats: raw, ppm)
+54. [INRIA's Syntim images database](http://www-rocq.inria.fr/~tarel/syntim/images.html) - 15 color image of simple objects (Formats: gif)
+55. [INRIA](http://www.inria.fr/)
+56. [INRIA's Syntim stereo databases](http://www-rocq.inria.fr/~tarel/syntim/paires.html) - 34 calibrated color stereo pairs (Formats: gif)
+57. [Image Analysis Laboratory](http://www.ece.ncsu.edu/imaging/Archives/ImageDataBase/index.html) - Images obtained from a variety of imaging modalities -- raw CFA images, range images and a host of "medical images". (Formats: homebrew)
+58. [Image Analysis Laboratory](http://www.ece.ncsu.edu/imaging)
+59. [Image Database](http://www.prip.tuwien.ac.at/prip/image.html) - An image database including some textures
+60. [JAFFE Facial Expression Image Database](http://www.mis.atr.co.jp/~mlyons/jaffe.html) - The JAFFE database consists of 213 images of Japanese female subjects posing 6 basic facial expressions as well as a neutral pose. Ratings on emotion adjectives are also available, free of charge, for research purposes. (Formats: TIFF Grayscale images.)
+61. [ATR Research, Kyoto, Japan](http://www.mic.atr.co.jp/)
+62. [JISCT Stereo Evaluation](origin/ftp:/ftp.vislist.com/IMAGERY/JISCT/) - 44 image pairs. These data have been used in an evaluation of stereo analysis, as described in the April 1993 ARPA Image Understanding Workshop paper \`\`The JISCT Stereo Evaluation'' by R.C.Bolles, H.H.Baker, and M.J.Hannah, 263--274 (Formats: SSI)
+63. [MIT Vision Texture](https://vismod.media.mit.edu/vismod/imagery/VisionTexture/vistex.html) - Image archive (100+ images) (Formats: ppm)
+64. [MIT face images and more](origin/ftp:/whitechapel.media.mit.edu/pub/images) - hundreds of images (Formats: homebrew)
+65. [Machine Vision](http://vision.cse.psu.edu/book/testbed/images/) - Images from the textbook by Jain, Kasturi, Schunck (20+ images) (Formats: GIF TIFF)
+66. [Mammography Image Databases](http://marathon.csee.usf.edu/Mammography/Database.html) - 100 or more images of mammograms with ground truth. Additional images available by request, and links to several other mammography databases are provided. (Formats: homebrew)
+67. [ftp://ftp.cps.msu.edu/pub/prip](origin/ftp:/ftp.cps.msu.edu/pub/prip) - many images (Formats: unknown)
+68. [Middlebury Stereo Data Sets with Ground Truth](http://www.middlebury.edu/stereo/data.html) - Six multi-frame stereo data sets of scenes containing planar regions. Each data set contains 9 color images and subpixel-accuracy ground-truth data. (Formats: ppm)
+69. [Middlebury Stereo Vision Research Page](http://www.middlebury.edu/stereo) - Middlebury College
+70. [Modis Airborne simulator, Gallery and data set](http://ltpwww.gsfc.nasa.gov/MODIS/MAS/) - High Altitude Imagery from around the world for environmental modeling in support of NASA EOS program (Formats: JPG and HDF)
+71. [NIST Fingerprint and handwriting](origin/ftp:/sequoyah.ncsl.nist.gov/pub/databases/data) - datasets - thousands of images (Formats: unknown)
+72. [NIST Fingerprint data](origin/ftp:/ftp.cs.columbia.edu/jpeg/other/uuencoded) - compressed multipart uuencoded tar file
+73. [NLM HyperDoc Visible Human Project](http://www.nlm.nih.gov/research/visible/visible_human.html) - Color, CAT and MRI image samples - over 30 images (Formats: jpeg)
+74. [National Design Repository](http://www.designrepository.org) - Over 55,000 3D CAD and solid models of (mostly) mechanical/machined engineering designs. (Formats: gif,vrml,wrl,stp,sat)
+75. [Geometric & Intelligent Computing Laboratory](http://gicl.mcs.drexel.edu)
+76. [OSU (MSU) 3D Object Model Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/Models/) - several sets of 3D object models collected over several years to use in object recognition research (Formats: homebrew, vrml)
+77. [OSU (MSU/WSU) Range Image Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/RID/) - Hundreds of real and synthetic images (Formats: gif, homebrew)
+78. [OSU/SAMPL Database: Range Images, 3D Models, Stills, Motion Sequences](http://sampl.eng.ohio-state.edu/~sampl/database.htm) - Over 1000 range images, 3D object models, still images and motion sequences (Formats: gif, ppm, vrml, homebrew)
+79. [Signal Analysis and Machine Perception Laboratory](http://sampl.eng.ohio-state.edu)
+80. [Otago Optical Flow Evaluation Sequences](http://www.cs.otago.ac.nz/research/vision/Research/OpticalFlow/opticalflow.html) - Synthetic and real sequences with machine-readable ground truth optical flow fields, plus tools to generate ground truth for new sequences. (Formats: ppm,tif,homebrew)
+81. [Vision Research Group](http://www.cs.otago.ac.nz/research/vision/index.html)
+82. [ftp://ftp.limsi.fr/pub/quenot/opflow/testdata/piv/](origin/ftp:/ftp.limsi.fr/pub/quenot/opflow/testdata/piv/) - Real and synthetic image sequences used for testing a Particle Image Velocimetry application. These images may be used for the test of optical flow and image matching algorithms. (Formats: pgm (raw))
+83. [LIMSI-CNRS/CHM/IMM/vision](http://www.limsi.fr/Recherche/IMM/PageIMM.html)
+84. [LIMSI-CNRS](http://www.limsi.fr/)
+85. [Photometric 3D Surface Texture Database](http://www.taurusstudio.net/research/pmtexdb/index.htm) - This is the first 3D texture database which provides both full real surface rotations and registered photometric stereo data (30 textures, 1680 images). (Formats: TIFF)
+86. [SEQUENCES FOR OPTICAL FLOW ANALYSIS (SOFA)](http://www.cee.hw.ac.uk/~mtc/sofa) - 9 synthetic sequences designed for testing motion analysis applications, including full ground truth of motion and camera parameters. (Formats: gif)
+87. [Computer Vision Group](http://www.cee.hw.ac.uk/~mtc/research.html)
+88. [Sequences for Flow Based Reconstruction](http://www.nada.kth.se/~zucch/CAMERA/PUB/seq.html) - synthetic sequence for testing structure from motion algorithms (Formats: pgm)
+89. [Stereo Images with Ground Truth Disparity and Occlusion](http://www-dbv.cs.uni-bonn.de/stereo_data/) - a small set of synthetic images of a hallway with varying amounts of noise added. Use these images to benchmark your stereo algorithm. (Formats: raw, viff (khoros), or tiff)
+90. [Stuttgart Range Image Database](http://range.informatik.uni-stuttgart.de) - A collection of synthetic range images taken from high-resolution polygonal models available on the web (Formats: homebrew)
+91. [Department Image Understanding](http://www.informatik.uni-stuttgart.de/ipvr/bv/bv_home_engl.html)
+92. [The AR Face Database](http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html) - Contains over 4,000 color images corresponding to 126 people's faces (70 men and 56 women). Frontal views with variations in facial expressions, illumination, and occlusions. (Formats: RAW (RGB 24-bit))
+93. [Purdue Robot Vision Lab](http://rvl.www.ecn.purdue.edu/RVL/)
+94. [The MIT-CSAIL Database of Objects and Scenes](http://web.mit.edu/torralba/www/database.html) - Database for testing multiclass object detection and scene recognition algorithms. Over 72,000 images with 2873 annotated frames. More than 50 annotated object classes. (Formats: jpg)
+95. [The RVL SPEC-DB (SPECularity DataBase)](http://rvl1.ecn.purdue.edu/RVL/specularity_database/) - A collection of over 300 real images of 100 objects taken under three different illuminaiton conditions (Diffuse/Ambient/Directed). -- Use these images to test algorithms for detecting and compensating specular highlights in color images. (Formats: TIFF )
+96. [Robot Vision Laboratory](http://rvl1.ecn.purdue.edu/RVL/)
+97. [The Xm2vts database](http://xm2vtsdb.ee.surrey.ac.uk) - The XM2VTSDB contains four digital recordings of 295 people taken over a period of four months. This database contains both image and video data of faces.
+98. [Centre for Vision, Speech and Signal Processing](http://www.ee.surrey.ac.uk/Research/CVSSP)
+99. [Traffic Image Sequences and 'Marbled Block' Sequence](http://i21www.ira.uka.de/image_sequences) - thousands of frames of digitized traffic image sequences as well as the 'Marbled Block' sequence (grayscale images) (Formats: GIF)
+100. [IAKS/KOGS](http://i21www.ira.uka.de)
+101. [U Bern Face images](origin/ftp:/ftp.iam.unibe.ch/pub/Images/FaceImages) - hundreds of images (Formats: Sun rasterfile)
+102. [U Michigan textures](origin/ftp:/freebie.engin.umich.edu/pub/misc/textures) (Formats: compressed raw)
+103. [U Oulu wood and knots database](http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html) - Includes classifications - 1000+ color images (Formats: ppm)
+104. [UCID - an Uncompressed Colour Image Database](http://vision.doc.ntu.ac.uk/datasets/UCID/ucid.html) - a benchmark database for image retrieval with predefined ground truth. (Formats: tiff)
+105. [UMass Vision Image Archive](http://vis-www.cs.umass.edu/~vislib/) - Large image database with aerial, space, stereo, medical images and more. (Formats: homebrew)
+106. [UNC's 3D image database](origin/ftp:/sunsite.unc.edu/pub/academic/computer-science/virtual-reality/3d) - many images (Formats: GIF)
+107. [USF Range Image Data with Segmentation Ground Truth](http://marathon.csee.usf.edu/range/seg-comp/SegComp.html) - 80 image sets (Formats: Sun rasterimage)
+108. [University of Oulu Physics-based Face Database](http://www.ee.oulu.fi/research/imag/color/pbfd.html) - contains color images of faces under different illuminants and camera calibration conditions as well as skin spectral reflectance measurements of each person.
+109. [Machine Vision and Media Processing Unit](http://www.ee.oulu.fi/mvmp/)
+110. [University of Oulu Texture Database](http://www.outex.oulu.fi) - Database of 320 surface textures, each captured under three illuminants, six spatial resolutions and nine rotation angles. A set of test suites is also provided so that texture segmentation, classification, and retrieval algorithms can be tested in a standard manner. (Formats: bmp, ras, xv)
+111. [Machine Vision Group](http://www.ee.oulu.fi/mvg)
+112. [Usenix face database](origin/ftp:/ftp.uu.net/published/usenix/faces) - Thousands of face images from many different sites (circa 994)
+113. [View Sphere Database](http://www-prima.inrialpes.fr/Prima/hall/view_sphere.html) - Images of 8 objects seen from many different view points. The view sphere is sampled using a geodesic with 172 images/sphere. Two sets for training and testing are available. (Formats: ppm)
+114. [PRIMA, GRAVIR](http://www-prima.inrialpes.fr/Prima/)
+115. [Vision-list Imagery Archive](origin/ftp:/ftp.vislist.com/IMAGERY/) - Many images, many formats
+116. [Wiry Object Recognition Database](http://www.cs.cmu.edu/~owenc/word.htm) - Thousands of images of a cart, ladder, stool, bicycle, chairs, and cluttered scenes with ground truth labelings of edges and regions. (Formats: jpg)
+117. [3D Vision Group](http://www.cs.cmu.edu/0.000000E+003dvision/)
+118. [Yale Face Database](http://cvc.yale.edu/projects/yalefaces/yalefaces.html) -  165 images (15 individuals) with different lighting, expression, and occlusion configurations.
+119. [Yale Face Database B](http://cvc.yale.edu/projects/yalefacesB/yalefacesB.html) - 5760 single light source images of 10 subjects each seen under 576 viewing conditions (9 poses x 64 illumination conditions). (Formats: PGM)
+120. [Center for Computational Vision and Control](http://cvc.yale.edu/)
+121. [YouTube-8M Dataset](https://research.google.com/youtube8m/) - YouTube-8M is a large-scale labeled video dataset that consists of 8 million YouTube video IDs and associated labels from a diverse vocabulary of 4800 visual entities.
+122. [Visual Object Classes Challenge 2012 (VOC2012)](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit) - VOC2012 dataset containing 12k images with 20 annotated classes for object detection and segmentation.
+123. [Large-scale Fashion (DeepFashion) Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) - Contains over 800,000 diverse fashion images.  Each image in this dataset is labeled with 50 categories, 1,000 descriptive attributes, bounding box and clothing landmarks
+124. [SANAD: Single-Label Arabic News Articles Dataset for Automatic Text Categorization](https://data.mendeley.com/datasets/57zpx667y9/2) - SANAD Dataset is a large collection of Arabic news articles that can be used in different Arabic NLP tasks such as Text Classification and Word Embedding. The articles were collected using Python scripts written specifically for three popular news websites: AlKhaleej, AlArabiya and Akhbarona.
+125. [Referit3D](https://referit3d.github.io) - Two large-scale and complementary visio-linguistic datasets (aka Nr3D and Sr3D) for identifying fine-grained 3D objects in ScanNet scenes. Nr3D contains 41.5K natural, free-form utterances, and Sr3d contains 83.5K template-based utterances.
+126. [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) - Stanford released \~100,000 English QA pairs and \~50,000 unanswerable questions
+127. [FQuAD](https://fquad.illuin.tech/) - \~25,000 French QA pairs released by Illuin Technology
+128. [GermanQuAD and GermanDPR](https://www.deepset.ai/germanquad) - deepset released \~14,000 German QA pairs
+129. [SberQuAD](https://github.com/annnyway/QA-for-Russian) - Sberbank released \~90,000 Russian QA pairs
 130. [ArtEmis](http://artemisdataset.org/) - Contains 450K affective annotations of emotional responses and linguistic explanations for 80,000 artworks of WikiArt.
 
 ### Conferences
@@ -536,32 +536,32 @@
 
 ### Frameworks
 
-1. [Tensorflow - Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow) ⭐ 194,302 | 🐛 3,844 | 🌐 C++ | 📅 2026-03-22
-2. [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch) ⭐ 98,478 | 🐛 18,062 | 🌐 Python | 📅 2026-03-22
-3. [SyntaxNet - Google's syntactic parser - A TensorFlow dependency library](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,693 | 🐛 1,281 | 🌐 Python | 📅 2026-03-17
-4. [Colossal-AI - An Integrated Large-scale Model Training System with Efficient Parallelization Techniques](https://github.com/hpcaitech/ColossalAI) ⭐ 41,369 | 🐛 492 | 🌐 Python | 📅 2026-03-16
-5. [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle) ⭐ 23,768 | 🐛 1,599 | 🌐 C++ | 📅 2026-03-21
+1. [Tensorflow - Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow) ⭐ 194,322 | 🐛 3,917 | 🌐 C++ | 📅 2026-03-23
+2. [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch) ⭐ 98,498 | 🐛 18,074 | 🌐 Python | 📅 2026-03-23
+3. [SyntaxNet - Google's syntactic parser - A TensorFlow dependency library](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,694 | 🐛 1,281 | 🌐 Python | 📅 2026-03-17
+4. [Colossal-AI - An Integrated Large-scale Model Training System with Efficient Parallelization Techniques](https://github.com/hpcaitech/ColossalAI) ⭐ 41,372 | 🐛 492 | 🌐 Python | 📅 2026-03-16
+5. [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle) ⭐ 23,771 | 🐛 1,600 | 🌐 C++ | 📅 2026-03-23
 6. [MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework](https://github.com/apache/incubator-mxnet) ⚠️ Archived
 7. [CNTK - Microsoft Cognitive Toolkit](https://github.com/Microsoft/CNTK) ⚠️ Archived
 8. [albumentations - A fast and framework agnostic image augmentation library](https://github.com/albu/albumentations) ⚠️ Archived
-9. [char-rnn](https://github.com/karpathy/char-rnn) ⭐ 12,001 | 🐛 110 | 🌐 Lua | 📅 2023-10-24
+9. [char-rnn](https://github.com/karpathy/char-rnn) ⭐ 12,002 | 🐛 110 | 🌐 Lua | 📅 2023-10-24
 10. [convetjs](https://github.com/karpathy/convnetjs) ⭐ 11,147 | 🐛 75 | 🌐 JavaScript | 📅 2023-01-07
-11. [Sonnet - a library for constructing neural networks by Google's DeepMind](https://github.com/deepmind/sonnet) ⭐ 9,906 | 🐛 39 | 🌐 Python | 📅 2026-02-10
+11. [Sonnet - a library for constructing neural networks by Google's DeepMind](https://github.com/deepmind/sonnet) ⭐ 9,908 | 🐛 39 | 🌐 Python | 📅 2026-02-10
 12. [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web](https://github.com/PAIR-code/deeplearnjs) ⚠️ Archived
 13. [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework](https://github.com/caffe2/caffe2) ⚠️ Archived
 14. [Trax — Deep Learning with Clear Code and Speed](https://github.com/google/trax) ⚠️ Archived
 15. [Brain](https://github.com/harthur/brain) ⚠️ Archived
-16. [Flax - a neural network ecosystem for JAX that is designed for flexibility](https://github.com/google/flax) ⭐ 7,128 | 🐛 475 | 🌐 Jupyter Notebook | 📅 2026-03-21
+16. [Flax - a neural network ecosystem for JAX that is designed for flexibility](https://github.com/google/flax) ⭐ 7,131 | 🐛 475 | 🌐 Jupyter Notebook | 📅 2026-03-21
 17. [Serpent.AI - Game agent framework: Use any video game as a deep learning sandbox](https://github.com/SerpentAI/SerpentAI) ⚠️ Archived
-18. [Feast - A Feature Store for ML for GCP by Gojek/Google](https://github.com/gojek/feast) ⭐ 6,817 | 🐛 312 | 🌐 Python | 📅 2026-03-20
-19. [PyTorch Geometric Temporal - Representation learning on dynamic graphs](https://github.com/gojek/feast) ⭐ 6,817 | 🐛 312 | 🌐 Python | 📅 2026-03-20
+18. [Feast - A Feature Store for ML for GCP by Gojek/Google](https://github.com/gojek/feast) ⭐ 6,822 | 🐛 312 | 🌐 Python | 📅 2026-03-20
+19. [PyTorch Geometric Temporal - Representation learning on dynamic graphs](https://github.com/gojek/feast) ⭐ 6,822 | 🐛 312 | 🌐 Python | 📅 2026-03-20
 20. [DSSTNE - Amazon's library for building Deep Learning models](https://github.com/amznlabs/amazon-dsstne) ⚠️ Archived
 21. [Nvidia DIGITS - a web app based on Caffe](https://github.com/NVIDIA/DIGITS) ⚠️ Archived
 22. [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) ⭐ 3,871 | 🐛 83 | 🌐 Matlab | 📅 2018-10-13
 23. [Neon - Python based Deep Learning Framework](https://github.com/NervanaSystems/neon) ⚠️ Archived
 24. [Lasagne - a lightweight library to build and train neural networks in Theano](https://github.com/Lasagne/Lasagne) ⭐ 3,866 | 🐛 139 | 🌐 Python | 📅 2022-03-26
-25. [lightly - A computer vision framework for self-supervised learning](https://github.com/lightly-ai/lightly) ⭐ 3,699 | 🐛 85 | 🌐 Python | 📅 2026-03-04
-26. [Catalyst: High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing](https://github.com/catalyst-team/catalyst) ⭐ 3,371 | 🐛 3 | 🌐 Python | 📅 2025-06-27
+25. [lightly - A computer vision framework for self-supervised learning](https://github.com/lightly-ai/lightly) ⭐ 3,700 | 🐛 85 | 🌐 Python | 📅 2026-03-04
+26. [Catalyst: High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing](https://github.com/catalyst-team/catalyst) ⭐ 3,372 | 🐛 3 | 🌐 Python | 📅 2025-06-27
 27. [TensorForce - A TensorFlow library for applied reinforcement learning](https://github.com/reinforceio/tensorforce) ⭐ 3,310 | 🐛 44 | 🌐 Python | 📅 2024-07-31
 28. [Scikit Flow - Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/google/skflow) ⚠️ Archived
 29. [DMTK - Microsoft Distributed Machine Learning Tookit](https://github.com/Microsoft/DMTK) ⚠️ Archived
@@ -610,13 +610,13 @@
 
 ### Tools
 
-1. [Netron](https://github.com/lutzroeder/netron) ⭐ 32,622 | 🐛 20 | 🌐 JavaScript | 📅 2026-03-21 - Visualizer for deep learning and machine learning models
-2. [hub](https://github.com/activeloopai/Hub) ⭐ 9,042 | 🐛 64 | 🌐 C++ | 📅 2026-02-16 - Fastest unstructured dataset management for TensorFlow/PyTorch by activeloop.ai. Stream & version-control data. Converts large data into single     numpy-like array on the cloud, accessible on any machine.
-3. [Nebullvm](https://github.com/nebuly-ai/nebullvm) ⭐ 8,352 | 🐛 111 | 🌐 Python | 📅 2024-07-22 - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
-4. [TensorBoard](https://github.com/tensorflow/tensorboard) ⭐ 7,128 | 🐛 725 | 🌐 TypeScript | 📅 2026-03-21 - TensorFlow's Visualization Toolkit
+1. [Netron](https://github.com/lutzroeder/netron) ⭐ 32,624 | 🐛 19 | 🌐 JavaScript | 📅 2026-03-23 - Visualizer for deep learning and machine learning models
+2. [hub](https://github.com/activeloopai/Hub) ⭐ 9,046 | 🐛 64 | 🌐 C++ | 📅 2026-02-16 - Fastest unstructured dataset management for TensorFlow/PyTorch by activeloop.ai. Stream & version-control data. Converts large data into single     numpy-like array on the cloud, accessible on any machine.
+3. [Nebullvm](https://github.com/nebuly-ai/nebullvm) ⭐ 8,353 | 🐛 111 | 🌐 Python | 📅 2024-07-22 - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
+4. [TensorBoard](https://github.com/tensorflow/tensorboard) ⭐ 7,129 | 🐛 725 | 🌐 TypeScript | 📅 2026-03-21 - TensorFlow's Visualization Toolkit
 5. [ML Workspace](https://github.com/ml-tooling/ml-workspace) ⭐ 3,541 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-07-26 - All-in-one web-based IDE for machine learning and data science.
 6. [TensorWatch](https://github.com/microsoft/tensorwatch) ⭐ 3,467 | 🐛 53 | 🌐 Jupyter Notebook | 📅 2026-03-17 - Debugging and visualization for deep learning
-7. [Determined](https://github.com/determined-ai/determined) ⭐ 3,216 | 🐛 105 | 🌐 Go | 📅 2025-03-20 - Deep learning training platform with integrated support for distributed training, hyperparameter tuning, smart GPU scheduling, experiment tracking, and a model registry.
+7. [Determined](https://github.com/determined-ai/determined) ⭐ 3,216 | 🐛 106 | 🌐 Go | 📅 2025-03-20 - Deep learning training platform with integrated support for distributed training, hyperparameter tuning, smart GPU scheduling, experiment tracking, and a model registry.
 8. [dowel](https://github.com/rlworkgroup/dowel) ⭐ 35 | 🐛 20 | 🌐 Python | 📅 2023-08-30 - A little logger for machine learning research. Log any object to the console, CSVs, TensorBoard, text log files, and more with just one call to `logger.log()`
 9. [Jupyter Notebook](http://jupyter.org) - Web-based notebook environment for interactive computing
 10. [Visual Studio Tools for AI](https://www.microsoft.com/en-us/research/project/visual-studio-code-tools-ai/) - Develop, debug and deploy deep learning and AI solutions
@@ -630,13 +630,13 @@
 
 ### Miscellaneous
 
-1. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) ⭐ 30,850 | 🐛 18 | 🌐 JavaScript | 📅 2025-09-12 - Roadmap to becoming an Artificial Intelligence Expert
-2. [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,729 | 🐛 30 | 📅 2024-06-11
-3. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) ⭐ 21,533 | 🐛 172 | 🌐 Python | 📅 2026-03-21 contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
+1. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) ⭐ 30,854 | 🐛 18 | 🌐 JavaScript | 📅 2025-09-12 - Roadmap to becoming an Artificial Intelligence Expert
+2. [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,728 | 🐛 30 | 📅 2024-06-11
+3. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) ⭐ 21,539 | 🐛 171 | 🌐 Python | 📅 2026-03-22 contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
 4. [Face recognition with Google's FaceNet deep neural network.](https://github.com/cmusatyalab/openface) ⭐ 15,413 | 🐛 6 | 🌐 Lua | 📅 2024-10-04
 5. [Google deepdream - Neural Network art](https://github.com/google/deepdream) ⚠️ Archived
 6. [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet) ⭐ 9,116 | 🐛 297 | 🌐 C | 📅 2025-03-31
-7. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) ⭐ 4,805 | 🐛 0 | 🌐 Python | 📅 2023-03-18 - Curated list of articles related to deep learning scientific research on graph structured data at the graph level.
+7. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) ⭐ 4,806 | 🐛 0 | 🌐 Python | 📅 2023-03-18 - Curated list of articles related to deep learning scientific research on graph structured data at the graph level.
 8. [Awesome Deep Learning Music](https://github.com/ybayle/awesome-deep-learning-music) ⭐ 2,958 | 🐛 2 | 🌐 TeX | 📅 2023-12-15 - Curated list of articles related to deep learning scientific research applied to music
 9. [Proof of concept for loading Caffe models in TensorFlow](https://github.com/ethereon/caffe-tensorflow) ⭐ 2,793 | 🐛 120 | 🌐 Python | 📅 2019-07-18
 10. [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) ⭐ 2,624 | 🐛 4 | 📅 2020-12-08 - Curated list of articles related to deep learning scientific research on graph structured data at the node level.
@@ -676,7 +676,7 @@
 
 ### Contributing
 
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls) ⭐ 27,742 | 🐛 57 | 📅 2025-05-26.
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls) ⭐ 27,744 | 🐛 57 | 📅 2025-05-26.
 
 ***
 
