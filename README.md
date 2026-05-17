@@ -1,4 +1,4 @@
-# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 466,792 | 🐛 76 | 📅 2026-05-05
+# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 467,155 | 🐛 76 | 📅 2026-05-05
 
 ## Table of Contents
 
@@ -202,10 +202,10 @@
 
 ### Tutorials
 
-1. [TensorFlow Python Notebooks](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,774 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26
-2. [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,343 | 🐛 88 | 🌐 Python | 📅 2023-08-15
-3. [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,026 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20
-4. [More TensorFlow tutorials](https://github.com/pkmital/tensorflow_tutorials) ⭐ 5,668 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2021-12-11
+1. [TensorFlow Python Notebooks](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,772 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26
+2. [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,346 | 🐛 88 | 🌐 Python | 📅 2023-08-15
+3. [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,027 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20
+4. [More TensorFlow tutorials](https://github.com/pkmital/tensorflow_tutorials) ⭐ 5,669 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2021-12-11
 5. [TensorFlow-World](https://github.com/astorfi/TensorFlow-World) ⭐ 4,498 | 🐛 3 | 🌐 Python | 📅 2020-12-23
 6. [Classification on raw time series in TensorFlow with a LSTM RNN](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) ⭐ 3,486 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-06
 7. [The Best Machine Learning Tutorials On The Web](https://github.com/josephmisiti/machine-learning-module) ⭐ 477 | 🐛 0 | 🌐 Objective-C | 📅 2011-04-28
@@ -391,7 +391,7 @@
 1. [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,733 | 🐛 33 | 🌐 Python | 📅 2022-06-13 - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 2. [Open Images dataset](https://github.com/openimages/dataset) ⭐ 4,366 | 🐛 37 | 🌐 Python | 📅 2021-07-01 - Open Images is a dataset of \~9 million URLs to images that have been annotated with labels spanning over 6000 categories.
 3. [DeepMind QA Corpus](https://github.com/deepmind/rc-data) ⚠️ Archived - Textual QA corpus from CNN and DailyMail. More than 300K documents in total. [Paper](http://arxiv.org/abs/1506.03340) for reference.
-4. [LLVIP](https://github.com/bupt-ai-cz/LLVIP) ⭐ 827 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2025-08-09 - 15488 visible-infrared paired images (30976 images) for low-light vision research, [Project\_Page](https://bupt-ai-cz.github.io/LLVIP/)
+4. [LLVIP](https://github.com/bupt-ai-cz/LLVIP) ⭐ 829 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2025-08-09 - 15488 visible-infrared paired images (30976 images) for low-light vision research, [Project\_Page](https://bupt-ai-cz.github.io/LLVIP/)
 5. [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) ⭐ 413 | 🐛 5 | 📅 2020-01-25 - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
 6. [MSDA](https://github.com/bupt-ai-cz/Meta-SelfLearning) ⭐ 206 | 🐛 2 | 🌐 Python | 📅 2025-04-25 - Over over 5 million images from 5 different domains for multi-source ocr/text recognition DA research, [Project\_Page](https://bupt-ai-cz.github.io/Meta-SelfLearning/)
 7. [MNIST](http://yann.lecun.com/exdb/mnist/) Handwritten digits
@@ -536,24 +536,24 @@
 
 ### Frameworks
 
-1. [Tensorflow - Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow) ⭐ 195,116 | 🐛 5,275 | 🌐 C++ | 📅 2026-05-16
-2. [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch) ⭐ 99,943 | 🐛 18,510 | 🌐 Python | 📅 2026-05-16
+1. [Tensorflow - Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow) ⭐ 195,130 | 🐛 5,296 | 🌐 C++ | 📅 2026-05-17
+2. [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch) ⭐ 99,954 | 🐛 18,501 | 🌐 Python | 📅 2026-05-17
 3. [SyntaxNet - Google's syntactic parser - A TensorFlow dependency library](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,662 | 🐛 1,287 | 🌐 Python | 📅 2026-05-13
 4. [Colossal-AI - An Integrated Large-scale Model Training System with Efficient Parallelization Techniques](https://github.com/hpcaitech/ColossalAI) ⭐ 41,382 | 🐛 499 | 🌐 Python | 📅 2026-05-11
-5. [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle) ⭐ 23,888 | 🐛 1,508 | 🌐 C++ | 📅 2026-05-16
+5. [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle) ⭐ 23,889 | 🐛 1,510 | 🌐 C++ | 📅 2026-05-16
 6. [MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework](https://github.com/apache/incubator-mxnet) ⚠️ Archived
 7. [CNTK - Microsoft Cognitive Toolkit](https://github.com/Microsoft/CNTK) ⚠️ Archived
 8. [albumentations - A fast and framework agnostic image augmentation library](https://github.com/albu/albumentations) ⚠️ Archived
-9. [char-rnn](https://github.com/karpathy/char-rnn) ⭐ 12,034 | 🐛 111 | 🌐 Lua | 📅 2023-10-24
-10. [convetjs](https://github.com/karpathy/convnetjs) ⭐ 11,160 | 🐛 76 | 🌐 JavaScript | 📅 2023-01-07
-11. [Sonnet - a library for constructing neural networks by Google's DeepMind](https://github.com/deepmind/sonnet) ⭐ 9,918 | 🐛 42 | 🌐 Python | 📅 2026-05-06
+9. [char-rnn](https://github.com/karpathy/char-rnn) ⭐ 12,035 | 🐛 111 | 🌐 Lua | 📅 2023-10-24
+10. [convetjs](https://github.com/karpathy/convnetjs) ⭐ 11,161 | 🐛 75 | 🌐 JavaScript | 📅 2023-01-07
+11. [Sonnet - a library for constructing neural networks by Google's DeepMind](https://github.com/deepmind/sonnet) ⭐ 9,917 | 🐛 42 | 🌐 Python | 📅 2026-05-06
 12. [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web](https://github.com/PAIR-code/deeplearnjs) ⚠️ Archived
 13. [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework](https://github.com/caffe2/caffe2) ⚠️ Archived
 14. [Trax — Deep Learning with Clear Code and Speed](https://github.com/google/trax) ⚠️ Archived
 15. [Brain](https://github.com/harthur/brain) ⚠️ Archived
-16. [Flax - a neural network ecosystem for JAX that is designed for flexibility](https://github.com/google/flax) ⭐ 7,199 | 🐛 475 | 🌐 Jupyter Notebook | 📅 2026-05-15
-17. [Feast - A Feature Store for ML for GCP by Gojek/Google](https://github.com/gojek/feast) ⭐ 7,036 | 🐛 345 | 🌐 Python | 📅 2026-05-15
-18. [PyTorch Geometric Temporal - Representation learning on dynamic graphs](https://github.com/gojek/feast) ⭐ 7,036 | 🐛 345 | 🌐 Python | 📅 2026-05-15
+16. [Flax - a neural network ecosystem for JAX that is designed for flexibility](https://github.com/google/flax) ⭐ 7,200 | 🐛 475 | 🌐 Jupyter Notebook | 📅 2026-05-15
+17. [Feast - A Feature Store for ML for GCP by Gojek/Google](https://github.com/gojek/feast) ⭐ 7,039 | 🐛 347 | 🌐 Python | 📅 2026-05-15
+18. [PyTorch Geometric Temporal - Representation learning on dynamic graphs](https://github.com/gojek/feast) ⭐ 7,039 | 🐛 347 | 🌐 Python | 📅 2026-05-15
 19. [Serpent.AI - Game agent framework: Use any video game as a deep learning sandbox](https://github.com/SerpentAI/SerpentAI) ⚠️ Archived
 20. [DSSTNE - Amazon's library for building Deep Learning models](https://github.com/amznlabs/amazon-dsstne) ⚠️ Archived
 21. [Nvidia DIGITS - a web app based on Caffe](https://github.com/NVIDIA/DIGITS) ⚠️ Archived
@@ -567,7 +567,7 @@
 29. [DMTK - Microsoft Distributed Machine Learning Tookit](https://github.com/Microsoft/DMTK) ⚠️ Archived
 30. [Karate Club - An unsupervised machine learning library for graph structured data](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,281 | 🐛 12 | 🌐 Python | 📅 2024-07-17
 31. [garage - A toolkit for reproducible reinforcement learning research](https://github.com/rlworkgroup/garage) ⭐ 2,100 | 🐛 234 | 🌐 Python | 📅 2023-05-04
-32. [Knet.jl](https://github.com/denizyuret/Knet.jl) ⭐ 1,436 | 🐛 153 | 🌐 Jupyter Notebook | 📅 2024-11-15
+32. [Knet.jl](https://github.com/denizyuret/Knet.jl) ⭐ 1,435 | 🐛 153 | 🌐 Jupyter Notebook | 📅 2024-11-15
 33. [MatConvNet: CNNs for MATLAB](https://github.com/vlfeat/matconvnet) ⭐ 1,429 | 🐛 687 | 🌐 Cuda | 📅 2021-12-21
 34. [Deeppy](https://github.com/andersbll/deeppy) ⭐ 1,374 | 🐛 22 | 🌐 Python | 📅 2020-12-28
 35. [Brainstorm - Fast, flexible and fun neural networks.](https://github.com/IDSIA/brainstorm) ⭐ 1,306 | 🐛 27 | 🌐 Python | 📅 2022-09-13
@@ -583,7 +583,7 @@
 45. [Detecto - Train and run object detection models with 5-10 lines of code](https://github.com/alankbi/detecto) ⭐ 625 | 🐛 48 | 🌐 Python | 📅 2024-07-25
 46. [Neuraxle - A general-purpose ML pipelining framework](https://github.com/Neuraxio/Neuraxle) ⭐ 614 | 🐛 2 | 🌐 Python | 📅 2026-02-20
 47. [Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework](https://github.com/PrincetonVision/marvin) ⭐ 428 | 🐛 17 | 🌐 C++ | 📅 2018-03-21
-48. [Maze](https://github.com/enlite-ai/maze) ⭐ 288 | 🐛 2 | 🌐 Python | 📅 2026-04-02 - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
+48. [Maze](https://github.com/enlite-ai/maze) ⭐ 289 | 🐛 2 | 🌐 Python | 📅 2026-04-02 - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 49. [OpenDL](https://github.com/guoding83128/OpenDL) ⭐ 222 | 🐛 2 | 🌐 Java | 📅 2025-05-03
 50. [Synapses - A lightweight library for neural networks that runs anywhere](https://github.com/mrdimosthenis/Synapses) ⭐ 73 | 🐛 0 | 📅 2021-09-23
 51. [InsNet - A neural network library for building instance-dependent NLP models with padding-free dynamic batching](https://github.com/chncwang/InsNet) ⭐ 67 | 🐛 0 | 🌐 C++ | 📅 2021-11-20
@@ -610,10 +610,10 @@
 
 ### Tools
 
-1. [Netron](https://github.com/lutzroeder/netron) ⭐ 32,892 | 🐛 19 | 🌐 JavaScript | 📅 2026-05-15 - Visualizer for deep learning and machine learning models
-2. [hub](https://github.com/activeloopai/Hub) ⭐ 9,125 | 🐛 67 | 🌐 C++ | 📅 2026-05-12 - Fastest unstructured dataset management for TensorFlow/PyTorch by activeloop.ai. Stream & version-control data. Converts large data into single     numpy-like array on the cloud, accessible on any machine.
-3. [Nebullvm](https://github.com/nebuly-ai/nebullvm) ⭐ 8,347 | 🐛 110 | 🌐 Python | 📅 2024-07-22 - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
-4. [TensorBoard](https://github.com/tensorflow/tensorboard) ⭐ 7,169 | 🐛 745 | 🌐 TypeScript | 📅 2026-05-12 - TensorFlow's Visualization Toolkit
+1. [Netron](https://github.com/lutzroeder/netron) ⭐ 32,896 | 🐛 19 | 🌐 JavaScript | 📅 2026-05-16 - Visualizer for deep learning and machine learning models
+2. [hub](https://github.com/activeloopai/Hub) ⭐ 9,127 | 🐛 67 | 🌐 C++ | 📅 2026-05-12 - Fastest unstructured dataset management for TensorFlow/PyTorch by activeloop.ai. Stream & version-control data. Converts large data into single     numpy-like array on the cloud, accessible on any machine.
+3. [Nebullvm](https://github.com/nebuly-ai/nebullvm) ⭐ 8,346 | 🐛 110 | 🌐 Python | 📅 2024-07-22 - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
+4. [TensorBoard](https://github.com/tensorflow/tensorboard) ⭐ 7,171 | 🐛 745 | 🌐 TypeScript | 📅 2026-05-12 - TensorFlow's Visualization Toolkit
 5. [ML Workspace](https://github.com/ml-tooling/ml-workspace) ⭐ 3,541 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-07-26 - All-in-one web-based IDE for machine learning and data science.
 6. [TensorWatch](https://github.com/microsoft/tensorwatch) ⭐ 3,468 | 🐛 53 | 🌐 Jupyter Notebook | 📅 2026-03-30 - Debugging and visualization for deep learning
 7. [Determined](https://github.com/determined-ai/determined) ⭐ 3,225 | 🐛 106 | 🌐 Go | 📅 2025-03-20 - Deep learning training platform with integrated support for distributed training, hyperparameter tuning, smart GPU scheduling, experiment tracking, and a model registry.
@@ -630,9 +630,9 @@
 
 ### Miscellaneous
 
-1. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) ⭐ 30,966 | 🐛 18 | 🌐 JavaScript | 📅 2025-09-12 - Roadmap to becoming an Artificial Intelligence Expert
-2. [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,777 | 🐛 31 | 📅 2024-06-11
-3. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) ⭐ 21,698 | 🐛 179 | 🌐 Python | 📅 2026-05-16 contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
+1. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) ⭐ 30,973 | 🐛 18 | 🌐 JavaScript | 📅 2025-09-12 - Roadmap to becoming an Artificial Intelligence Expert
+2. [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,773 | 🐛 31 | 📅 2024-06-11
+3. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) ⭐ 21,701 | 🐛 179 | 🌐 Python | 📅 2026-05-17 contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
 4. [Face recognition with Google's FaceNet deep neural network.](https://github.com/cmusatyalab/openface) ⭐ 15,416 | 🐛 2 | 🌐 Lua | 📅 2024-10-04
 5. [Google deepdream - Neural Network art](https://github.com/google/deepdream) ⚠️ Archived
 6. [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet) ⭐ 9,122 | 🐛 297 | 🌐 C | 📅 2025-03-31
@@ -676,7 +676,7 @@
 
 ### Contributing
 
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls) ⭐ 28,195 | 🐛 78 | 📅 2025-05-26.
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls) ⭐ 28,216 | 🐛 78 | 📅 2025-05-26.
 
 ***
 
