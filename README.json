@@ -84,7 +84,7 @@
             "last_commit": "2023-08-20T07:32:57Z",
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6029
+            "stars": 6030
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2022-11-06T17:53:06Z",
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3486
+            "stars": 3485
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2020-12-23T00:18:21Z",
             "owner": "astorfi",
             "repo": "TensorFlow-World",
-            "stars": 4498
+            "stars": 4497
           }
         },
         {
@@ -882,7 +882,7 @@
             "last_commit": "2021-07-01T18:02:46Z",
             "owner": "openimages",
             "repo": "dataset",
-            "stars": 4368
+            "stars": 4367
           }
         },
         {
@@ -900,7 +900,7 @@
             "last_commit": "2022-06-13T20:36:21Z",
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12733
+            "stars": 12732
           }
         },
         {
@@ -931,7 +931,7 @@
             "last_commit": "2025-08-09T14:08:25Z",
             "owner": "bupt-ai-cz",
             "repo": "LLVIP",
-            "stars": 830
+            "stars": 829
           }
         },
         {
@@ -1018,7 +1018,7 @@
             "last_commit": "2023-01-07T21:33:23Z",
             "owner": "karpathy",
             "repo": "convnetjs",
-            "stars": 11166
+            "stars": 11167
           }
         },
         {
@@ -1046,7 +1046,7 @@
             "last_commit": "2020-09-03T20:20:29Z",
             "owner": "harthur",
             "repo": "brain",
-            "stars": 7993
+            "stars": 7994
           }
         },
         {
@@ -1186,7 +1186,7 @@
             "last_commit": "2020-12-23T01:21:42Z",
             "owner": "NervanaSystems",
             "repo": "neon",
-            "stars": 3866
+            "stars": 3865
           }
         },
         {
@@ -1268,10 +1268,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-24T05:38:39Z",
+            "last_commit": "2026-05-25T06:12:20Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 195256
+            "stars": 195260
           }
         },
         {
@@ -1284,7 +1284,7 @@
             "last_commit": "2018-09-12T21:14:58Z",
             "owner": "microsoft",
             "repo": "DMTK",
-            "stars": 2739
+            "stars": 2738
           }
         },
         {
@@ -1310,7 +1310,7 @@
             "last_commit": "2023-10-25T21:28:33Z",
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20811
+            "stars": 20810
           }
         },
         {
@@ -1336,7 +1336,7 @@
             "last_commit": "2018-03-21T04:15:29Z",
             "owner": "PrincetonVision",
             "repo": "marvin",
-            "stars": 428
+            "stars": 429
           }
         },
         {
@@ -1354,7 +1354,7 @@
             "last_commit": "2020-03-02T05:35:24Z",
             "owner": "amazon-archives",
             "repo": "amazon-dsstne",
-            "stars": 4395
+            "stars": 4394
           }
         },
         {
@@ -1385,7 +1385,7 @@
             "last_commit": "2019-03-27T22:21:16Z",
             "owner": "facebookarchive",
             "repo": "torchnet",
-            "stars": 988
+            "stars": 987
           }
         },
         {
@@ -1395,10 +1395,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-23T13:18:43Z",
+            "last_commit": "2026-05-25T05:05:04Z",
             "owner": "PaddlePaddle",
             "repo": "Paddle",
-            "stars": 23910
+            "stars": 23912
           }
         },
         {
@@ -1442,7 +1442,7 @@
             "last_commit": "2026-05-06T20:18:31Z",
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9918
+            "stars": 9916
           }
         },
         {
@@ -1452,10 +1452,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-24T05:49:53Z",
+            "last_commit": "2026-05-25T06:10:34Z",
             "owner": "pytorch",
             "repo": "pytorch",
-            "stars": 100147
+            "stars": 100165
           }
         },
         {
@@ -1468,7 +1468,7 @@
             "last_commit": "2023-03-11T07:31:35Z",
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17598
+            "stars": 17597
           }
         },
         {
@@ -1481,7 +1481,7 @@
             "last_commit": "2022-11-07T01:59:31Z",
             "owner": "SerpentAI",
             "repo": "SerpentAI",
-            "stars": 6984
+            "stars": 6982
           }
         },
         {
@@ -1494,7 +1494,7 @@
             "last_commit": "2023-02-07T16:51:06Z",
             "owner": "facebookarchive",
             "repo": "caffe2",
-            "stars": 8380
+            "stars": 8378
           }
         },
         {
@@ -1530,7 +1530,7 @@
             "last_commit": "2025-06-25T23:21:43Z",
             "owner": "albumentations-team",
             "repo": "albumentations",
-            "stars": 15298
+            "stars": 15297
           }
         },
         {
@@ -1556,7 +1556,7 @@
             "last_commit": "2025-06-27T02:59:05Z",
             "owner": "catalyst-team",
             "repo": "catalyst",
-            "stars": 3377
+            "stars": 3376
           }
         },
         {
@@ -1647,7 +1647,7 @@
             "last_commit": "2026-05-23T04:15:11Z",
             "owner": "feast-dev",
             "repo": "feast",
-            "stars": 7050
+            "stars": 7049
           }
         },
         {
@@ -1660,7 +1660,7 @@
             "last_commit": "2026-05-23T04:15:11Z",
             "owner": "feast-dev",
             "repo": "feast",
-            "stars": 7050
+            "stars": 7049
           }
         },
         {
@@ -1670,10 +1670,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-21T13:36:26Z",
+            "last_commit": "2026-05-24T14:49:50Z",
             "owner": "lightly-ai",
             "repo": "lightly",
-            "stars": 3746
+            "stars": 3747
           }
         },
         {
@@ -1699,7 +1699,7 @@
             "last_commit": "2026-05-22T00:05:27Z",
             "owner": "google",
             "repo": "flax",
-            "stars": 7207
+            "stars": 7206
           }
         },
         {
@@ -1725,7 +1725,7 @@
             "last_commit": "2026-05-18T17:43:27Z",
             "owner": "hpcaitech",
             "repo": "ColossalAI",
-            "stars": 41393
+            "stars": 41392
           }
         },
         {
@@ -1775,7 +1775,7 @@
             "last_commit": "2024-07-22T02:07:03Z",
             "owner": "nebuly-ai",
             "repo": "optimate",
-            "stars": 8344
+            "stars": 8341
           }
         },
         {
@@ -1785,10 +1785,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-24T00:40:57Z",
+            "last_commit": "2026-05-24T21:39:42Z",
             "owner": "lutzroeder",
             "repo": "netron",
-            "stars": 32945
+            "stars": 32947
           }
         },
         {
@@ -1824,7 +1824,7 @@
             "last_commit": "2026-03-30T21:27:28Z",
             "owner": "microsoft",
             "repo": "tensorwatch",
-            "stars": 3469
+            "stars": 3468
           }
         },
         {
@@ -1971,7 +1971,7 @@
             "last_commit": "2017-10-05T04:49:35Z",
             "owner": "clementfarabet",
             "repo": "gfx.js",
-            "stars": 124
+            "stars": 123
           }
         },
         {
@@ -1984,7 +1984,7 @@
             "last_commit": "2025-03-31T20:16:24Z",
             "owner": "torch",
             "repo": "torch7",
-            "stars": 9124
+            "stars": 9123
           }
         },
         {
@@ -2022,7 +2022,7 @@
             "last_commit": "2017-02-20T17:09:40Z",
             "owner": "erikbern",
             "repo": "deep-pink",
-            "stars": 830
+            "stars": 831
           }
         },
         {
@@ -2092,7 +2092,7 @@
             "last_commit": "2023-12-12T05:04:29Z",
             "owner": "danieldjohnson",
             "repo": "biaxial-rnn-music-composition",
-            "stars": 1928
+            "stars": 1927
           }
         },
         {
@@ -2118,7 +2118,7 @@
             "last_commit": "2024-10-04T12:59:04Z",
             "owner": "cmusatyalab",
             "repo": "openface",
-            "stars": 15418
+            "stars": 15417
           }
         },
         {
@@ -2213,7 +2213,7 @@
             "last_commit": "2023-12-15T16:51:26Z",
             "owner": "ybayle",
             "repo": "awesome-deep-learning-music",
-            "stars": 2960
+            "stars": 2958
           }
         },
         {
@@ -2293,7 +2293,7 @@
             "last_commit": "2025-09-12T14:59:30Z",
             "owner": "AMAI-GmbH",
             "repo": "AI-Expert-Roadmap",
-            "stars": 30991
+            "stars": 30995
           }
         },
         {
@@ -2324,7 +2324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-24T05:53:07.129Z",
+    "last_updated": "2026-05-25T06:16:37.947Z",
     "original_repository": "ChristosChristofidis/awesome-deep-learning",
     "source_repository": "v1nvn/enhansome-deep-learning",
     "source_repository_description": null,
